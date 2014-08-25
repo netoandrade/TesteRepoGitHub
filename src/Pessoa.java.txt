@@ -1,5 +1,7 @@
 public class Pessoa{
 
+int idadae;
+String nome;
 
 
 public Pessoa(){}
